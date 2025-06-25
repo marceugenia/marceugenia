@@ -11,7 +11,7 @@ Candidate to design manual test cases (Mobile Testing, API Testing, UI Testing) 
 💡 &nbsp;I like to explore new technologies and implement improvements to avoid repeating errors.\
 🎓 &nbsp;I'm currently studying QA Engineering Cerfificate (Triple Ten Latam) and other coureses (Codigo Facilito) to confirm the deeply learning.\
 🌱 &nbsp;I'm on track for learning more about SQL related to database testing and Automated tests.\
-✍️ &nbsp;In my free time, I am doing a different audiovisual products, in this moment a documentary.\
+✍️ &nbsp;In my free time, I am doing several audiovisual products, in this moment a documentary.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marcela.eugenia.gzz@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIN] www.linkedin.com/in/marcelagonzález
