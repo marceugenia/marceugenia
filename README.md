@@ -1,8 +1,10 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! I'm Marcela Eugenia</h2>
 
-Candidate to design manual test cases (Mobile Testing, API Testing, UI Testing) / QA Engineer Certification in progress / Android Studio, JIRA, Postma, JSON)
+A QA Engineer Jr., I have over 20 years of professional experience in various fields. My constant focus has been my ability to implement continuous improvement processes, quality assurance, teamwork, and attention to detail.
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+My goal is to keep up-to-date with programming languages, using new technology, and continue my career supporting quality processes through software development (test cases, APIs, Postman, Jira) and mobile devices (Android Sudio). In the near future, I will be able to perform database testing using SQL and test automation with Python.
+
+<!-- ## 👋&nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
