@@ -19,7 +19,6 @@ My goal is to keep up-to-date with programming languages, using new technology, 
 🌱 &nbsp;I'm on track for learning more about SQL related to database testing and Python to Automated tests.\
 ✍️ &nbsp;In my free time, I create various audiovisual projects; right now, I’m working on a documentary. Also Language exchange: Spanish - Portuguese\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at marcela.eugenia.gzz@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIN] www.linkedin.com/in/marceugenia
 
 ### 🛠 &nbsp;Tech Stack
