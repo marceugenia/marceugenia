@@ -1,5 +1,3 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! I'm Marcela Eugenia</h2>
-
 
 Testing list, Taste Cases, Debuggin Report
 E-commerce Urban.Lunch Mobile app https://drive.google.com/file/d/1P2O-hJjO2p6oHH-PHlHR-y5GC8XwGbXR/view?usp=drive_link
