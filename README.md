@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! I'm Marcela Eugenia</h2>
 
-Aspiring to design manual test cases (Mobile Testing, API Testing, UI Testing) / QA Engineer Certification in progress / Android Studio, JIRA, Postma, JSON.
+Aspiring to design manual test cases (Mobile Testing, API Testing, UI Testing)
 
 My goal is to keep up-to-date with programming languages, using new technology, and continue my career supporting quality processes. In the near future, I will be able to perform database testing using SQL and Test Automation with Python.
 
