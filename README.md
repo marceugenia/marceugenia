@@ -1,5 +1,5 @@
 
-Testing list, Taste Cases, Debuggin Report
+Testing list, Test Cases, Debuggin Report
 E-commerce Urban.Lunch Mobile app https://drive.google.com/file/d/1P2O-hJjO2p6oHH-PHlHR-y5GC8XwGbXR/view?usp=drive_link
 E-commerce Urban.Grocers Mobile app https://drive.google.com/file/d/1vlq1oDzpenu4lq_SHFbAstGFXHrdPe3_/view?usp=drive_link
 Transportation services, Urban Routes Mobile (https://drive.google.com/file/d/1voQHBEJNTiC8K0u0Jk5n_z3QPlURGSpd/view?usp=drive_link, https://drive.google.com/file/d/1jNdNO_qLP81CeYTg2PiIt9NcwnTRpN2u/view?usp=drive_link, https://drive.google.com/file/d/1JPwkaOtjVG60wC-7uEC1CQUhzbRFa7k3/view?usp=drive_link, https://drive.google.com/file/d/14m4uRffQ52ZS1Ht_b-KJDMP1CG_v6EEQ/view?usp=drive_link, https://docs.google.com/document/d/1npqG-dALZoedD0JyqiDGWm8fph3SbXf5gclMWnk4YUM/edit?usp=drive_link, https://drive.google.com/file/d/1_XZs_7rkAd_H0MWGar_YTlzWfx_VJW-J/view?usp=drive_link
