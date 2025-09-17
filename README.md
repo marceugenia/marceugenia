@@ -7,7 +7,7 @@ My goal is to keep up-to-date with programming languages, using new technology, 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;20 years of professional experience in various fields, where my ability to implement continuous improvement processes, quality assurance, teamwork, and attention to detail have been a constant.\
+👨‍💻 &nbsp;25 years of professional experience in various fields, where my ability to implement continuous improvement processes, quality assurance, teamwork, and attention to detail have been a constant.\
 💡 &nbsp;I like to explore new technologies and implement improvements to avoid repeating errors.\
 🎓 &nbsp;I'm currently studying QA Engineering Cerfificate and other Bootcamps at Codigo Facilito.\
 🌱 &nbsp;I'm on track for learning more about SQL related to database testing and Python to Automated tests.\
